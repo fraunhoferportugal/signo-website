@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Signo</title>
+	<atom:link href="https://dermai.projects.fraunhofer.pt/signo/pt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dermai.projects.fraunhofer.pt/signo/pt</link>
+	<description>Sistemas de Valores em Tecnologias de Saúde Digital</description>
+	<lastbuilddate>Thu, 16 May 2024 07:59:48 +0000</lastbuilddate>
+	<language>pt-PT</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/Favicon-1-150x150.png</url>
+	<title>Signo</title>
+	<link>https://dermai.projects.fraunhofer.pt/signo/pt</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Planning of upcoming fieldwork</title>
+		<link>https://dermai.projects.fraunhofer.pt/signo/pt/planning-of-upcoming-fieldwork/</link>
+		
+		<dc:creator><![CDATA[mariana.pereira]]></dc:creator>
+		<pubdate>Thu, 11 Apr 2024 08:19:47 +0000</pubdate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid ispermalink="false">https://dermai.projects.fraunhofer.pt/signo/?p=2378</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci porta non pulvinar neque laoreet suspendisse interdum.]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2378" class="elementor elementor-2378">
+				<div class="wpr-jarallax elementor-element elementor-element-73bf961 wpr-jarallax-yes e-flex e-con-boxed wpr-particle-no wpr-parallax-no wpr-sticky-section-no e-con e-child" speed-data="1.4" bg-image="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/banner.png" scroll-effect="scroll" data-id="73bf961" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4eb85d7 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="4eb85d7" data-element_type="container">
+				<div class="elementor-element elementor-element-c4c86cd elementor-widget elementor-widget-heading" data-id="c4c86cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Notícias e atividades</h1>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0a24638 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="0a24638" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ab37f51 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="ab37f51" data-element_type="container">
+				<div class="elementor-element elementor-element-a24ace9 wpr-button-icon-position-left wpr-button-icon-style-inline elementor-widget elementor-widget-wpr-button" data-id="a24ace9" data-element_type="widget" data-widget_type="wpr-button.default">
+				<div class="elementor-widget-container">
+				
+			
+		
+		<div class="wpr-button-wrap elementor-clearfix">
+		<a class="wpr-button wpr-button-effect wpr-button-none" data-text="Go" href="https://dermai.projects.fraunhofer.pt/signo/pt/news/">
+			
+			<span class="wpr-button-content">
+									<span class="wpr-button-text">Voltar</span>
+								
+									<span class="wpr-button-icon"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="7" viewbox="0 0 8 7" fill="none"><path d="M3.38208 6.09082L0.38208 3.09082L3.38208 0.0908203L3.89771 0.599749L1.77494 2.72252H7.27271V3.45912H1.77494L3.89771 5.5752L3.38208 6.09082Z" fill="#7E20E5"></path></svg></span>
+							</span>
+		</a>
+
+				</div>
+	
+	
+			</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3764860 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="3764860" data-element_type="container">
+				<div class="elementor-element elementor-element-3a87246 wpr-post-info-align-left elementor-widget elementor-widget-wpr-post-info" data-id="3a87246" data-element_type="widget" data-widget_type="wpr-post-info.default">
+				<div class="elementor-widget-container">
+			<ul class="wpr-post-info wpr-post-info-vertical"><li class="wpr-post-info-date"><span>Abril 11, 2024</span></li></ul>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d382f6b elementor-widget elementor-widget-heading" data-id="d382f6b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Planeamento do trabalho de campo</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4298c88 elementor-widget elementor-widget-text-editor" data-id="4298c88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci porta non pulvinar neque laoreet suspendisse interdum.</p><p>A condimentum vitae sapien pellentesque. Pretium quam vulputate dignissim suspendisse. Augue lacus viverra vitae congue eu consequat ac felis donec. Vitae aliquet nec ullamcorper sit amet risus nullam eget.</p><p>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Leo integer malesuada nunc vel risus commodo viverra maecenas. Eu consequat ac felis donec et odio pellentesque diam volutpat. Nisi quis eleifend quam adipiscing vitae proin sagittis. Accumsan tortor posuere ac ut. Bibendum ut tristique et egestas quis ipsum suspendisse. Vitae tempus quam pellentesque nec nam aliquam sem et. Risus quis varius quam quisque id diam vel.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4afa705 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="4afa705" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg4MywidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM5MDYtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-scaled.jpg'><img fetchpriority="high" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3906-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM4OCwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM5MDEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-scaled.jpg'><img decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3901-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg3OCwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM5MDAtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-scaled.jpg'><img decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3900-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM4NiwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM4NzUtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3875-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM5MCwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM4ODEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3881-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM4NywidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM4ODctc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3887-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM5MywidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM4Njctc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3867-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM5MSwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM5MTEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3911-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjM5MiwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM4OTQtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1707" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-300x200.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-1024x683.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-768x512.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-1536x1024.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-2048x1365.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3894-18x12.jpg 18w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c12a7ba e-con-full elementor-hidden-mobile e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="c12a7ba" data-element_type="container">
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Project kick-off meeting</title>
+		<link>https://dermai.projects.fraunhofer.pt/signo/pt/kick-off-meeting/</link>
+		
+		<dc:creator><![CDATA[mariana.pereira]]></dc:creator>
+		<pubdate>Tue, 09 Jan 2024 14:52:54 +0000</pubdate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid ispermalink="false">https://dermai.projects.fraunhofer.pt/signo/?p=54</guid>
+
+					<description><![CDATA[O Fraunhofer Portugal AICOS abriu as portas à Carnegie Mellon University e ao Instituto de Filosofia - UP para dar início ao projeto Signo, um estudo exploratório que irá gerar um conjunto de recomendações e um conjunto de protótipos experimentais, explorando a questão dos valores.]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="54" class="elementor elementor-54">
+				<div class="wpr-jarallax elementor-element elementor-element-73bf961 wpr-jarallax-yes e-flex e-con-boxed wpr-particle-no wpr-parallax-no wpr-sticky-section-no e-con e-child" speed-data="1.4" bg-image="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/banner.png" scroll-effect="scroll" data-id="73bf961" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4eb85d7 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="4eb85d7" data-element_type="container">
+				<div class="elementor-element elementor-element-c4c86cd elementor-widget elementor-widget-heading" data-id="c4c86cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Notícias e atividades</h1>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0a24638 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="0a24638" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ab37f51 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="ab37f51" data-element_type="container">
+				<div class="elementor-element elementor-element-a24ace9 wpr-button-icon-position-left wpr-button-icon-style-inline elementor-widget elementor-widget-wpr-button" data-id="a24ace9" data-element_type="widget" data-widget_type="wpr-button.default">
+				<div class="elementor-widget-container">
+				
+			
+		
+		<div class="wpr-button-wrap elementor-clearfix">
+		<a class="wpr-button wpr-button-effect wpr-button-none" data-text="Go" href="https://dermai.projects.fraunhofer.pt/signo/pt/news/">
+			
+			<span class="wpr-button-content">
+									<span class="wpr-button-text">Voltar</span>
+								
+									<span class="wpr-button-icon"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="7" viewbox="0 0 8 7" fill="none"><path d="M3.38208 6.09082L0.38208 3.09082L3.38208 0.0908203L3.89771 0.599749L1.77494 2.72252H7.27271V3.45912H1.77494L3.89771 5.5752L3.38208 6.09082Z" fill="#7E20E5"></path></svg></span>
+							</span>
+		</a>
+
+				</div>
+	
+	
+			</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3764860 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="3764860" data-element_type="container">
+				<div class="elementor-element elementor-element-3a87246 wpr-post-info-align-left elementor-widget elementor-widget-wpr-post-info" data-id="3a87246" data-element_type="widget" data-widget_type="wpr-post-info.default">
+				<div class="elementor-widget-container">
+			<ul class="wpr-post-info wpr-post-info-vertical"><li class="wpr-post-info-date"><span>Janeiro 9, 2024</span></li></ul>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d382f6b elementor-widget elementor-widget-heading" data-id="d382f6b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Reunião de início do projeto</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4298c88 elementor-widget elementor-widget-text-editor" data-id="4298c88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>O Fraunhofer Portugal AICOS abriu as portas à Carnegie Mellon University e ao Instituto de Filosofia - UP para dar início ao projeto Signo, um estudo exploratório que irá gerar um conjunto de recomendações e um conjunto de protótipos experimentais, explorando a questão dos valores.</p><p>Os principais objetivos são identificar (1) como a tecnologia e a apresentação de dados em saúde comunicam sistemas de valores e (2) identificar princípios acionáveis sobre como transmitir sistemas de valores para o design de tecnologias e dados de saúde. O projeto será desenvolvido em cocriação com profissionais de saúde.</p><p>Além de ser o coordenador do estudo, o Fraunhofer Portugal AICOS realizará atividades de co-design com oftalmologistas, juntamente com investigadores das áreas de design, saúde e filosofia, para explorar, prototipar e avaliar tecnologia e representações de dados para saúde.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4afa705 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="4afa705" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg2NCwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM0ODYuanBnIiwic2xpZGVzaG93IjoiNGFmYTcwNSJ9" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486.jpg'><img loading="lazy" decoding="async" width="2000" height="1500" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486.jpg 2000w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486-300x225.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486-1024x768.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486-768x576.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486-1536x1152.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3486-16x12.jpg 16w" sizes="(max-width: 2000px) 100vw, 2000px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg2MywidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM0ODUuanBnIiwic2xpZGVzaG93IjoiNGFmYTcwNSJ9" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485.jpg'><img loading="lazy" decoding="async" width="2000" height="1500" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485.jpg 2000w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485-300x225.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485-1024x768.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485-768x576.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485-1536x1152.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3485-16x12.jpg 16w" sizes="(max-width: 2000px) 100vw, 2000px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg2NSwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzM1MDMuanBnIiwic2xpZGVzaG93IjoiNGFmYTcwNSJ9" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503.jpg'><img loading="lazy" decoding="async" width="2000" height="1500" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503.jpg 2000w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503-300x225.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503-1024x768.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503-768x576.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503-1536x1152.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_3503-16x12.jpg 16w" sizes="(max-width: 2000px) 100vw, 2000px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg2MCwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzI3NjQtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1920" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-300x225.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-1024x768.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-768x576.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-1536x1152.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-2048x1536.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2764-16x12.jpg 16w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTg2MSwidXJsIjoiaHR0cHM6XC9cL3NpZ25vLmxvY2FsXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvSU1HXzI3NjAtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-scaled.jpg'><img loading="lazy" decoding="async" width="2560" height="1920" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-scaled.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-scaled.jpg 2560w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-300x225.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-1024x768.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-768x576.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-1536x1152.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-2048x1536.jpg 2048w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/04/IMG_2760-16x12.jpg 16w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4afa705" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6Njc5LCJ1cmwiOiJodHRwczpcL1wvc2lnbm8ubG9jYWxcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjRcLzAzXC9JTUdfMjc2Ny0yLmpwZyIsInNsaWRlc2hvdyI6IjRhZmE3MDUifQ%3D%3D" href='https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2.jpg'><img loading="lazy" decoding="async" width="2047" height="1533" src="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2.jpg" class="attachment-full size-full" alt="" srcset="https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2.jpg 2047w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2-300x225.jpg 300w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2-1024x767.jpg 1024w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2-768x575.jpg 768w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2-1536x1150.jpg 1536w, https://dermai.projects.fraunhofer.pt/signo/wp-content/uploads/2024/03/IMG_2767-2-16x12.jpg 16w" sizes="(max-width: 2047px) 100vw, 2047px" /></a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c12a7ba e-con-full elementor-hidden-mobile e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="c12a7ba" data-element_type="container">
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
