@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Signo	</title>
-	<atom:link href="https://dermai.projects.fraunhofer.pt/signo/en/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dermai.projects.fraunhofer.pt/signo/en</link>
+	<atom:link href="https://fraunhoferportugal.github.io/signo-website//en/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fraunhoferportugal.github.io/signo-website//en</link>
 	<description>Value Systems in Digital Health Technologies</description>
-	<lastBuildDate>Thu, 16 May 2024 13:53:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 13:30:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
