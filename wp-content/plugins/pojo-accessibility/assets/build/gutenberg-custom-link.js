@@ -1,1 +1,14 @@
-(()=>{"use strict";const t=window.wp.blockEditor,e=window.wp.blocks,i=window.wp.components,s=window.wp.i18n,l=window.ReactJSXRuntime;(0,e.registerBlockType)("ally/custom-link",{title:(0,s.__)("Ally Widget Trigger","pojo-accessibility"),icon:"admin-links",category:"widgets",attributes:{linkText:{type:"string",default:(0,s.__)("Open Ally Widget","pojo-accessibility")}},edit:({attributes:e,setAttributes:n})=>{const o=(0,t.useBlockProps)();return(0,l.jsx)("div",{...o,children:(0,l.jsx)(i.TextControl,{label:(0,s.__)("Link Text","pojo-accessibility"),value:e.linkText,onChange:t=>n({linkText:t})})})},save:({attributes:e})=>{const i=t.useBlockProps.save();return(0,l.jsx)("div",{...i,children:(0,l.jsx)("a",{className:"ally-widget-trigger",href:"#",children:e.linkText})})}})})();
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://signo.projects.fraunhofer.pt/en/wp-content/plugins/pojo-accessibility/assets/build/gutenberg-custom-link.js/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://signo.projects.fraunhofer.pt/en/wp-content/plugins/pojo-accessibility/assets/build/gutenberg-custom-link.js/";
+		</script>
+
+		<p>You are being redirected to <a href="https://signo.projects.fraunhofer.pt/en/wp-content/plugins/pojo-accessibility/assets/build/gutenberg-custom-link.js/">https://signo.projects.fraunhofer.pt/en/wp-content/plugins/pojo-accessibility/assets/build/gutenberg-custom-link.js/</a></p>
+	</body>
+</html>
